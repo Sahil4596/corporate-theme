@@ -1,8 +1,8 @@
 {
      "name": "corporate-dark-theme",
      "displayName": "Corporate Dark Theme",
-     "description": "A premium, professional dark theme for focused corporate development with a neutral palette and vibrant orange accents.",
-     "version": "1.0.5",
+     "description": "A premium, professional dark theme for focused corporate development with a neutral palette and high-contrast accents.",
+     "version": "1.0.6",
      "publisher": "sahiljhajharia",
      "author": "Sahil Jhajharia",
      "icon": "icon.png",
@@ -17,7 +17,7 @@
           "corporate",
           "premium",
           "professional",
-          "orange"
+          "accent"
      ],
      "galleryBanner": {
           "color": "#121212",

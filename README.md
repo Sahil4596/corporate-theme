@@ -4,8 +4,8 @@ A premium, professional dark theme for VS Code, designed for focus and clarity.
 
 ## Features
 
-- **Neutral Charcoal Palette**: A sleek `#121212` background that reduces eye strain during long coding sessions.
-- **Vibrant Orange Accents**: High-contrast `#EF7F1A` highlights for external service calls and support classes—helping you navigate complex logic faster.
+- **Neutral Charcoal Palette**: A sleek, deep neutral background that reduces eye strain during long coding sessions.
+- **Professional High-Contrast Accents**: Vibrant highlights specifically for external service calls and support classes—helping you navigate complex logic faster.
 - **Full UI Coverage**: Custom-styled Activity Bar, Sidebar, Terminal, and Debugger for a truly integrated experience.
 - **Modern Syntax Highlighting**: Focused on modern languages like TypeScript, JavaScript, and JSON with semantic highlighting support.
 

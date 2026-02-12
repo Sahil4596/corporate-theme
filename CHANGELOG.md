@@ -2,6 +2,9 @@
 
 All notable changes to the "Corporate Dark Theme" extension will be documented in this file.
 
+## [1.0.6] - 2026-02-12
+- **Privacy Audit**: Removed all proprietary hex codes and color names from public-facing documentation.
+
 ## [1.0.5] - 2026-02-12
 - **Production Launch**: Finalized professional coding standards and package optimization.
 - **Cleanup**: Entire repository scrubbed of build artifacts and technical debt.
@@ -25,6 +28,6 @@ All notable changes to the "Corporate Dark Theme" extension will be documented i
 ## [1.0.0] - 2026-02-12
 
 - Initial release of Corporate Dark theme.
-- Professional neutral dark palette (`#121212`).
-- High-contrast orange accents (`#EF7F1A`) for external calls.
+- Professional neutral dark palette.
+- High-contrast professional accents for external calls.
 - Full UI coverage (Activity Bar, Side Bar, Terminal, etc.).
