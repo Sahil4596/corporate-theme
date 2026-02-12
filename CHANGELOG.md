@@ -1,10 +1,22 @@
 # Changelog
 
-All notable changes to the "Corporate Dark" extension will be documented in this file.
+All notable changes to the "Corporate Dark Theme" extension will be documented in this file.
+
+## [1.0.3] - 2026-02-12
+- **Official Brand Launch**: Renamed to "Corporate Dark Theme".
+- **CI/CD Automation**: Enabled automatic Marketplace publishing via GitHub Actions.
+- **Icon Update**: Professionalized branding with a custom minimalist logo.
+
+## [1.0.2] - 2026-02-12
+- **Documentation Overhaul**: Fully Marketplace-ready README with installation guides.
+- **Metadata Update**: Added standard LICENSE and Repository metadata.
+
+## [1.0.1] - 2026-02-12
+- **Syntax Refinement**: Transitioned specific code highlighting from "tripjack" to generic "external" call patterns.
+- **Marketplace Preparation**: First draft of metadata and icon integration.
 
 ## [1.0.0] - 2026-02-12
 - Initial release of Corporate Dark theme.
-- Professional neutral dark palette.
-- High-contrast orange accents for external calls.
+- Professional neutral dark palette (`#121212`).
+- High-contrast orange accents (`#EF7F1A`) for external calls.
 - Full UI coverage (Activity Bar, Side Bar, Terminal, etc.).
-- Semantic highlighting support.
