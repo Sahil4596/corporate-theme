@@ -1,0 +1,7 @@
+# Exclude from VSIX package
+.github/
+.gitignore
+.vscodeignore
+LINKEDIN_POST.md
+CHANGELOG.md
+corporate-dark-theme-*.vsix
