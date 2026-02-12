@@ -1,53 +1,53 @@
 {
-  "name": "corporate-dark-theme",
-  "displayName": "Corporate Dark Theme",
-  "description": "A premium, professional dark theme for focused corporate development with a neutral palette and vibrant orange accents.",
-  "version": "1.0.4",
-  "publisher": "sahiljhajharia",
-  "author": "Sahil Jhajharia",
-  "icon": "icon.png",
-  "engines": {
-    "vscode": "^1.50.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "dark",
-    "corporate",
-    "premium",
-    "professional",
-    "orange"
-  ],
-  "galleryBanner": {
-    "color": "#121212",
-    "theme": "dark"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Corporate Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Corporate-Dark-color-theme.json"
-      }
-    ]
-  },
-  "scripts": {
-    "lint": "vsce ls",
-    "format": "prettier --write \"**/*.{json,md,yml}\"",
-    "package": "vsce package",
-    "publish": "vsce publish"
-  },
-  "devDependencies": {
-    "@vscode/vsce": "^2.15.0",
-    "prettier": "^3.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Sahil4596/corporate-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/Sahil4596/corporate-theme/issues"
-  },
-  "homepage": "https://github.com/Sahil4596/corporate-theme#readme"
+     "name": "corporate-dark-theme",
+     "displayName": "Corporate Dark Theme",
+     "description": "A premium, professional dark theme for focused corporate development with a neutral palette and vibrant orange accents.",
+     "version": "1.0.5",
+     "publisher": "sahiljhajharia",
+     "author": "Sahil Jhajharia",
+     "icon": "icon.png",
+     "engines": {
+          "vscode": "^1.50.0"
+     },
+     "categories": [
+          "Themes"
+     ],
+     "keywords": [
+          "dark",
+          "corporate",
+          "premium",
+          "professional",
+          "orange"
+     ],
+     "galleryBanner": {
+          "color": "#121212",
+          "theme": "dark"
+     },
+     "contributes": {
+          "themes": [
+               {
+                    "label": "Corporate Dark",
+                    "uiTheme": "vs-dark",
+                    "path": "./themes/Corporate-Dark-color-theme.json"
+               }
+          ]
+     },
+     "scripts": {
+          "lint": "vsce ls",
+          "format": "prettier --write \"**/*.{json,md,yml}\"",
+          "package": "vsce package",
+          "publish": "vsce publish"
+     },
+     "devDependencies": {
+          "@vscode/vsce": "^2.15.0",
+          "prettier": "^3.0.0"
+     },
+     "repository": {
+          "type": "git",
+          "url": "https://github.com/Sahil4596/corporate-theme"
+     },
+     "bugs": {
+          "url": "https://github.com/Sahil4596/corporate-theme/issues"
+     },
+     "homepage": "https://github.com/Sahil4596/corporate-theme#readme"
 }

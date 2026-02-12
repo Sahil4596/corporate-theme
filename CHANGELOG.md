@@ -2,7 +2,11 @@
 
 All notable changes to the "Corporate Dark Theme" extension will be documented in this file.
 
-## [1.0.3] - 2026-02-12
+## [1.0.5] - 2026-02-12
+- **Production Launch**: Finalized professional coding standards and package optimization.
+- **Cleanup**: Entire repository scrubbed of build artifacts and technical debt.
+
+## [1.0.4] - 2026-02-12
 
 - **Official Brand Launch**: Renamed to "Corporate Dark Theme".
 - **CI/CD Automation**: Enabled automatic Marketplace publishing via GitHub Actions.
