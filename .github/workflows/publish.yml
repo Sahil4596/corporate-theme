@@ -20,7 +20,10 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install -g @vscode/vsce
+        run: npm install -g @vscode/vsce ovsx
 
-      - name: Publish
+      - name: Publish to VS Code Marketplace
         run: vsce publish -p ${{ secrets.VSCE_PAT }}
+
+      - name: Publish to Open VSX Registry
+        run: ovsx publish -p ${{ secrets.OVSX_PAT }}
