@@ -2,6 +2,10 @@
 
 All notable changes to the "Corporate Dark Theme" extension will be documented in this file.
 
+## [1.0.7] - 2026-02-12
+- **Cross-Marketplace Sync**: Validated simultaneous deployment to VS Code Marketplace and Open VSX.
+- **Workflow Optimization**: Fixed version conflict handling in CI/CD.
+
 ## [1.0.6] - 2026-02-12
 - **Privacy Audit**: Removed all proprietary hex codes and color names from public-facing documentation.
 
