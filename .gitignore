@@ -1,0 +1,12 @@
+# .gitignore for VS Code Extension
+
+# Build artifacts
+*.vsix
+
+# OS files
+.DS_Store
+
+# Temporary files
+LINKEDIN_POST.md
+node_modules/
+.vscode-test/
