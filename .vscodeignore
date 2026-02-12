@@ -2,6 +2,9 @@
 .github/
 .gitignore
 .vscodeignore
-LINKEDIN_POST.md
+.prettierrc
+package-lock.json
+node_modules/
 CHANGELOG.md
 corporate-dark-theme-*.vsix
+LINKEDIN_POST.md
